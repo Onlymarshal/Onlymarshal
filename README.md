@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Onlymarshal
+- 👋 Hi, I’m Marshall
 - 👀 I’m interested in History
 - 🌱 I’m currently learning to process data in a program
 - 💞️ I’m looking to collaborate with Marshall Matherss a.k.a EMINEM
