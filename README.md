@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Marshall
 - 👀 I’m interested in History
-- 🌱 I’m currently learning to process data in a program
+- 🌱 I’m currently learning to processing data in a program
 - 💞️ I’m looking to collaborate with Marshall Matherss a.k.a EMINEM
-- 📫 How to reach me DM for in my instagram @darsskuy._
+- 📫 How to reach me? DM for in my instagram @darsskuy._
 
 <!---
 Onlymarshal/Onlymarshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
